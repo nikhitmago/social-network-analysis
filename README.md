@@ -1,5 +1,11 @@
 # Social Network Analysis using Girvann Newman Algorithm
 
+The code uses `networkx` python library which can be installed using the command:
+
+```html
+pip install networkx
+```
+
 Version:
 
 ```html
